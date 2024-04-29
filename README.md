@@ -5,3 +5,4 @@ It calculates employee counts by city, average salaries by race, identifies top-
 These insights enable informed decision-making in workforce management, recruitment, and performance evaluation.
 
 https://drive.google.com/file/d/1zO__JAWBs4U7SsZGTsDhaFrd_Ija2s4E/view?usp=sharing
+https://drive.google.com/file/d/14TowIbljjhIdPKejzsQtk4cnfjeP46Ii/view?usp=sharing
